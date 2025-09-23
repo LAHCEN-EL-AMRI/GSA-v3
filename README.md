@@ -6,6 +6,7 @@ The software is designed to meet the needs of researchers, technicians, and stud
 
 GSA v3 is free software for non-commercial use only.
 © 2025 Lahcen El Amri
+[License](https://github.com/LAHCEN-EL-AMRI/GSA-v3/blob/main/License)   file for more information)
 
 
 # GUI 
@@ -85,4 +86,5 @@ This project requis the following dependencies : JCommon
 * **LAHCEN EL AMRI** *lahssenelamri@gmail.com*  *doctor* *Team of reactor physics, energy and nuclear safety, Faculty of Sciences, Mohammed V University of Rabat, Morocco
 
 # LICENSE
-- This project is licensed under Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) see the [License](https://github.com/LAHCEN-EL-AMRI/SGMDA_v1/blob/main/LICENSE)   file for more information)
+This project is licensed under the GSA v3 Software License. See the [License](https://github.com/LAHCEN-EL-AMRI/SGMDA_v1/blob/main/LICENSE)
+ file for more information.
