@@ -1,0 +1,17 @@
+name of the certified source:
+Multipl11
+
+reference date:
+02 FEB 2015
+
+time:
+121314
+
+Nuclide   γ energy (keV)   Iγ   Half-life   Unit   Activity (Bq)   ± %
+Cs-137   661.7   85.1   30.05   y   20000   1
+Co-60   1173.2   99.9   5.27   y   15000   2
+Co-60   1332.5   99.9   5.27   y   15000   3
+Mn-54   834.8   99.9   312.2   d   12000   1
+Na-22   511.0   180.6   2.60   y   5100   1
+Na-22   1274.5   99.9   2.60   y   50000   0.6
+Cd-109   88.03   3.6   461.4   d   8000   0.9

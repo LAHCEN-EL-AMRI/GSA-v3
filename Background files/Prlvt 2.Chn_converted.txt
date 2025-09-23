@@ -1,0 +1,15 @@
+Nom du fichier: Prlvt 2.Chn
+Date: 03Sep201
+Heure: 12:06:25
+Temps réel (s): 86418.4
+Temps vivant (s): 86400.0
+Dead time: 0,02 %
+Offset des données: 0
+Longueur des données: 8192
+Coefficients de calibration énergie: null, null, null
+Coefficients FWHM: 2.365561, 0.001095137, -5.387246E-8
+Coefficients de forme des pics: 0.0, 0.0, 0.0
+Description du détecteur: DET06
+Description de l'échantillon: 
+
+Données du spectre (entiers):

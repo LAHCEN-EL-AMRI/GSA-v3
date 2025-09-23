@@ -1,0 +1,15 @@
+Nom du fichier: CERNIPf.Chn
+Date: 30Apr86
+Heure: 15:30:00
+Temps réel (s): 150000.0
+Temps vivant (s): 150000.0
+Dead time: 0,00 %
+Offset des données: 0
+Longueur des données: 4096
+Coefficients de calibration énergie: null, null, null
+Coefficients FWHM: 0.9833, 0.03834, 0.0
+Coefficients de forme des pics: 1.3563156E-19, 1.3563156E-19, 1.3563156E-19
+Description du détecteur: Detector description
+Description de l'échantillon: Sample Descrption
+
+Données du spectre (entiers):
