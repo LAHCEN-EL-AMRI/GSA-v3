@@ -71,11 +71,11 @@ Java language must be pre-installed on the computer.
 
 # Dependencies:
 
-This project requis the following dependencies : JCommon
+This project requis the following dependencies :
 
-- [java language version 21.0.4](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html)    //Must already be on your PC / computer
-- [JFreeChart library](https://www.jfree.org/jfreechart/)  // no need to download it
-- [JCommon library](https://www.jfree.org/jcommon/)      // no need to download it
+- [Java language version 21.0.4 or higher](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html)    //Must already be on your PC / computer
+- [JFreeChart library](https://www.jfree.org/jfreechart/)  // No need to download it. It is integrated automatically
+- [JCommon library](https://www.jfree.org/jcommon/)      // No need to download it. It is integrated automatically
 
 
 # Versions
@@ -83,7 +83,7 @@ This project requis the following dependencies : JCommon
 
 
 # Authors
-* **LAHCEN EL AMRI** *lahssenelamri@gmail.com*  *doctor* *Team of reactor physics, energy and nuclear safety, Faculty of Sciences, Mohammed V University of Rabat, Morocco
+* **LAHCEN EL AMRI** *lahssenelamri@gmail.com*  *Ph.D* * Laboratory of Condensed Matter and Interdisciplinary Sciences (LaMCScI), Faculty of Sciences, Mohammed V University, 4 Avenue Ibn Battouta, B.P. 1014, Rabat, Morocco.*
 
 # LICENSE
 This project is licensed under the GSA v3 Software License. See the [License](https://github.com/LAHCEN-EL-AMRI/SGMDA_v1/blob/main/LICENSE)
